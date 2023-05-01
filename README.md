@@ -3,3 +3,4 @@
 
 
 This project represents nice simple game with use sprite animation. You need to help character to collect all blocks.
+Enjoy yourself!
